@@ -1,6 +1,8 @@
 # 🎄🎄 Festive Prompt🎄🎄
 
-🎅 Holiday ZSH prompt based off [Prezto Minimal](https://github.com/sorin-ionescu/prezto/blob/master/modules/prompt/functions/prompt_minimal_setup)
+🎅 Holiday ZSH prompt based off [Minimal](https://github.com/sorin-ionescu/prezto/blob/master/modules/prompt/functions/prompt_minimal_setup)
+
+![Santa!](https://33.media.tumblr.com/be88f03c6520feb2c1d98fda576535b1/tumblr_nfwvmobMg31sjqg62o1_250.gif)
 
 ![festive example](https://raw.githubusercontent.com/dunckr/festive-prompt/master/assets/example.jpg)
 
